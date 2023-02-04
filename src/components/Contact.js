@@ -46,7 +46,7 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
               Jl. Mekar No.16, RT.8/RW.4, <br/>
-              Tj. Bar., Kec. Jagakarsa, <br/>
+              Tj. Barat, Kec. Jagakarsa, <br/>
               Kota Jakarta Selatan, <br/>
               Daerah Khusus Ibukota Jakarta 12530
               </p>
